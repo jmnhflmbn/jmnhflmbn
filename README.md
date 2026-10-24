@@ -1,6 +1,6 @@
 # Hi, I'm Jumanah! 👋🏻
 
-Software Engineering Student @ Umm Al-Qura University 🇸🇦
+Software Engineering Student at Umm Al-Qura University 🇸🇦
 
 > "We live in an era of scientific innovations, unprecedented technologies, and unlimited growth opportunities."
 >
@@ -9,8 +9,8 @@ Software Engineering Student @ Umm Al-Qura University 🇸🇦
 ## 👩🏻‍💻 About Me
 
 - 🎓 Software Engineering student at Umm Al-Qura University.
-- 💻 Passionate about web development and creative digital experiences.
-- 🎨 Interested in UI/UX design and exploring new fields in technology.
+- 💻 Interested about web development and UI/UX design.
+- 🎨 Interested in graphic design.
 - 🌱 Always learning, experimenting, and growing as a developer.
 
 ## 🤝 Connect With Me
@@ -37,7 +37,7 @@ Software Engineering Student @ Umm Al-Qura University 🇸🇦
 
 ## 🍿 Fun Fact
 
-I'm an anime lover! ✨ Whether it's an exciting storyline, unforgettable characters, or a world full of imagination, there's always another anime on my watchlist.
+I'm an anime lover! ✨ I balance creativity in code with the imagination of anime worlds, and always have room for one more episode.
 
 ## 🔐 The Secret Room
 
