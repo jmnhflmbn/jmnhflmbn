@@ -17,6 +17,15 @@ Software Engineering Student at Umm Al-Qura University
 - 🎨 Interested in graphic design.
 - 🌱 Always learning, experimenting, and growing as a developer.
 
+<!-- Anime × Coding Mini Game -->
+<p align="center">
+  <img
+    src="anime_game.png"
+    alt="Anime Coding Mini Game"
+    width="70%"
+  />
+</p>
+
 ## 🤝 Connect With Me
 
 <p align="left">
