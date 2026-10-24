@@ -1,6 +1,10 @@
 # Hi, I'm Jumanah! 👋🏻
 
-Software Engineering Student at Umm Al-Qura University 🇸🇦
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1500&color=3B82F6&center=true&vCenter=true&width=450&lines=Nice+to+meet+you!+%E2%9C%A8" alt="Nice to meet you!" />
+</p>
+
+Software Engineering Student at Umm Al-Qura University
 
 > "We live in an era of scientific innovations, unprecedented technologies, and unlimited growth opportunities."
 >
@@ -15,7 +19,14 @@ Software Engineering Student at Umm Al-Qura University 🇸🇦
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jumanahfelemban)
+<p align="left">
+  <a href="https://www.linkedin.com/in/jumanahfelemban">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:jumanah.h.felemban@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ## 🛠️ Tech Stack
 
@@ -39,54 +50,101 @@ Software Engineering Student at Umm Al-Qura University 🇸🇦
 
 I'm an anime lover! ✨ I balance creativity in code with the imagination of anime worlds, and always have room for one more episode.
 
-## 🔐 The Secret Room
+## 🗝️ The Secret Room
 
-*Three clues. Three answers. One secret code.*
-
-<details>
-<summary>🔎 Clue 1 — The Structure</summary>
-
-I give webpages their structure. Without me, websites would be a lot less organized.
+🌙 *A mysterious room, three little puzzles, and a secret waiting to be discovered...*
 
 <details>
-<summary>💡 Need a hint?</summary>
+<summary>🕵🏻‍♀️ Level 1 — Who Am I?</summary>
 
-I'm a markup language that starts with **H**.
+I appear when something goes wrong in your code.
+Developers aren't happy to see me, but finding me is the first step to fixing the problem.
+
+👀 What am I?
+
+<details>
+<summary>🍵 Need a little hint?</summary>
+
+I'm not a person, but developers often spend hours looking for me!
+</details>
+
+<details>
+<summary>✨ Reveal the answer</summary>
+
+A **bug** 🐛
+
+Keep this word in mind. You'll need it later.
 </details>
 </details>
 
 <details>
-<summary>🎨 Clue 2 — The Style</summary>
+<summary>🧩 Level 2 — Crack the Code</summary>
 
-I control colors, layouts, spacing, and fonts. I make websites look good.
+A secret message was found on the screen:
+
+`JG DW WI`
+
+Something shifted the letters.
+
+💭 Hint: Each letter has moved **2 places forward** in the alphabet. Move each one back to decode the message.
 
 <details>
-<summary>💡 Need a hint?</summary>
+<summary>🪄 Reveal the decoded message</summary>
 
-I'm a style sheet language that starts with **C**.
+`HE BU TG`
+
+Hmm... that doesn't look right! Maybe the message was corrupted.
+
+The important clue is the shifting technique itself: a **Caesar cipher** 🔐
 </details>
 </details>
 
 <details>
-<summary>⚡ Clue 3 — The Interaction</summary>
+<summary>🎮 Level 3 — The Logic Challenge</summary>
 
-I make webpages interactive with logic, events, and dynamic behavior.
+A little robot follows these instructions:
+
+- 🍎 If the box contains an apple, it says "Yummy!"
+- 🍌 If the box contains a banana, it says "Not bad!"
+- 📦 The box contains neither fruit.
+
+What should the robot say?
+
+A) Yummy! 🍎
+
+B) Not bad! 🍌
+
+C) Nothing! 🤖
 
 <details>
-<summary>💡 Need a hint?</summary>
+<summary>🌟 Reveal the answer</summary>
 
-I'm a programming language that starts with **J**.
+**C) Nothing!**
+
+The robot checks conditions before deciding what to do.
+
+In programming, this is called **conditional logic** 🧠
+
+Keep exploring — the secret door is waiting!
 </details>
 </details>
 
 <details>
-<summary>🚪 Unlock the Room</summary>
+<summary>🚪 The Secret Door</summary>
 
-Put the first letter of each answer together in order.
+You found a bug 🐛, followed the clues 🔍, and solved the final riddle.
 
-**Secret Code: HCJ**
+Now, what **7-letter programming term** describes the process of finding and fixing bugs?
 
-You cracked the code. Welcome to the secret room! 🎉
+<details>
+<summary>🔓 Reveal the secret password</summary>
+
+# DEBUGGING 🔑
+
+🎉 You cracked the mystery!
+
+*Every great developer starts by solving one bug at a time.*
+</details>
 </details>
 
 ---
